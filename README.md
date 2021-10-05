@@ -5,6 +5,8 @@
 ### Hi, my name is Gage Hilyard. I am student in Computer Science at Montana State University of Bozeman!
 
 This repository will hold my favorite coding assignments from class as well as my finished and current projects.
+I have some xperience in Python, Java, C#, and web dev. Plus a few 
+Currently I am working on addons for **[Anki](https://apps.ankiweb.net/)** using python in my spare time to aid myself and others in language learning.
 
 *****
 
