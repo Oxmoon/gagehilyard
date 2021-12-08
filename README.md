@@ -1,4 +1,5 @@
-# gagehilyard.github.io
+# Gage Hilyard
+Bozeman | ghilyard@yahoo.com
 
 ## Personal and Academic Portfolio
 
