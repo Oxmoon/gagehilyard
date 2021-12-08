@@ -1,5 +1,5 @@
 # Gage Hilyard
-Bozeman | ghilyard@yahoo.com
+ghilyard@yahoo.com
 
 ## Personal and Academic Portfolio
 
