@@ -1,5 +1,5 @@
 # Gage Hilyard
-ghilyard@yahoo.com
+Contact: gagehilyard@gmail.com
 
 ## Personal and Academic Portfolio
 
