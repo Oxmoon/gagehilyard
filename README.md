@@ -17,7 +17,7 @@ My **[itch.io](https://12gageshogun.itch.io/)** account has my first Unity Game!
 
 *****
 
-My academic and personal intrests outside of coding include:<br>
+My academic and personal interests outside of coding include:<br>
 - Language Aquisition<br>
     - Japanese via **[Refold](https://refold.la)** and **[Migaku](https://www.migaku.io/)**<br>
 - Meditation<br>
